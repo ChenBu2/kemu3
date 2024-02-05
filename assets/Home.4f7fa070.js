@@ -26,7 +26,7 @@ function se(e, n, t, r, l, u) {
                 "text-white": t.footer,
                 "text-black": !t.footer
             }])
-        }, " WALL STREET BABY ", 2)]),
+        }, " 科目三 ", 2)]),
         _: 1
     })
 }
@@ -132,12 +132,12 @@ const ge = h(me, [["render", xe]])
                 url: "https://www.dextools.io/app/en/ether/pair-explorer/0x4360658e680026e4c636e8be0f7d0b9f976c46f0",
                 anchor: !0
             }, {
-                name: "Buy $WSB",
+                name: "Buy $科目三",
                 url: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
                 anchor: !0
             }, {
                 name: "Twitter",
-                url: "https://twitter.com/WSB_BABY",
+                url: "https://twitter.com/科目三_BABY",
                 anchor: !0
             }, {
                 name: "Telegram",
@@ -216,7 +216,7 @@ function je(e, n, t, r, l, u) {
         class: "xl:flex hidden",
         "is-link": "",
         link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
-        title: "Buy $WSB"
+        title: "Buy $科目三"
     }), s("div", ke, [s("button", {
         type: "button",
         class: "inline-flex items-center justify-center p-2 rounded-md text-secondary hover:text-white hover:bg-primary focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white",
@@ -253,7 +253,7 @@ function je(e, n, t, r, l, u) {
         "is-link": "",
         light: "",
         link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
-        title: "Buy $WSB",
+        title: "Buy $科目三",
         class: "mx-4 mb-4"
     })])])], 512), [[G, l.expandMenu]])], 2)
 }
@@ -523,22 +523,22 @@ const Ne = {
 }
   , Fe = s("h1", {
     class: "mx-2"
-}, "WALL STREET BABY", -1)
+}, "科目三", -1)
   , ze = s("h1", {
     class: "mx-2"
-}, "WALL STREET BABY", -1)
+}, "科目三", -1)
   , Ke = s("h1", {
     class: "mx-2"
-}, "WALL STREET BABY", -1)
+}, "科目三", -1)
   , Ge = s("h1", {
     class: "mx-2"
-}, "WALL STREET BABY", -1)
+}, "科目三", -1)
   , Xe = s("h1", {
     class: "mx-2"
-}, "WALL STREET BABY", -1)
+}, "科目三", -1)
   , Je = s("h1", {
     class: "mx-2"
-}, "WALL STREET BABY", -1);
+}, "科目三", -1);
 function Qe(e, n, t, r, l, u) {
     const o = a("Vue3Marquee");
     return d(),
@@ -588,7 +588,7 @@ function at(e, n, t, r, l, u) {
     return d(),
     f("div", tt, [s("div", nt, [s("div", ot, [c(p, {
         title: "Release The Inner Degen.",
-        description: "WALL STREET BABY is a memecoin by and for the Wall Street Bets community. The original Wall Street Bets logo was created for educational purposes by a third party and later used in the infamous Wall Street Bets reddit page. WSB is here to honor their creativity and everlasting memes."
+        description: "科目三 is a memecoin by and for the Wall Street Bets community. The original Wall Street Bets logo was created for educational purposes by a third party and later used in the infamous Wall Street Bets reddit page. 科目三 is here to honor their creativity and everlasting memes."
     }, {
         button: y(()=>[s("div", st, [c(o, {
             "is-link": "",
@@ -743,7 +743,7 @@ const bt = h(wt, [["render", vt]])
   , jt = {
     class: "w-full bg-main-dark -skew-y-6 flex flex-col items-center justify-center xl:p-20 p-10 xl:gap-10 gap-5"
 }
-  , Mt = Q('<div class="flex items-center flex-row gap-10 flex-wrap justify-center"><a href="https://www.bitmart.com/trade/en-US?symbol=WSB_USDT&amp;layout=basic" target="_blank"><img src="' + $t + '" alt="" class="xl:h-16 h-10 object-contain"></a><a href="https://www.lbank.com/trade/wsb_usdt/" target="_blank"><img src="' + kt + '" alt="" class="xl:h-16 h-10 object-contain"></a><a href="https://www.coinw.com/frontSpot/spottrade?symbol=1336" target="_blank"><img src="' + Bt + '" alt="" class="xl:h-16 h-10 object-contain"></a><a href="https://www.bitget.com/en/spot/WSBUSDT_SPBL?type=spot" target="_blank"><img src="' + St + '" alt="" class="xl:h-40 h-28 object-contain"></a><a href="https://www.gate.io/trade/WSB_USDT" target="_blank"><img src="' + Tt + '" alt="" class="xl:h-24 h-14 object-contain"></a><a href="https://www.okx.com/support/hc/en-us/articles/11319913977613-Use-the-OKX-Wallet-Web-Extension-to-easily-play-AptosPassport" target="_blank"><img src="' + Ct + '" alt="" class="xl:h-16 h-10 object-contain"></a><a href="https://www.mexc.com/exchange/WSB_USDT?_from=search" target="_blank"><img src="' + Et + '" alt="" class="xl:h-16 h-10 object-contain"></a></div>', 1);
+  , Mt = Q('<div class="flex items-center flex-row gap-10 flex-wrap justify-center"><a href="https://www.bitmart.com/trade/en-US?symbol=科目三_USDT&amp;layout=basic" target="_blank"><img src="' + $t + '" alt="" class="xl:h-16 h-10 object-contain"></a><a href="https://www.lbank.com/trade/科目三_usdt/" target="_blank"><img src="' + kt + '" alt="" class="xl:h-16 h-10 object-contain"></a><a href="https://www.coinw.com/frontSpot/spottrade?symbol=1336" target="_blank"><img src="' + Bt + '" alt="" class="xl:h-16 h-10 object-contain"></a><a href="https://www.bitget.com/en/spot/科目三USDT_SPBL?type=spot" target="_blank"><img src="' + St + '" alt="" class="xl:h-40 h-28 object-contain"></a><a href="https://www.gate.io/trade/科目三_USDT" target="_blank"><img src="' + Tt + '" alt="" class="xl:h-24 h-14 object-contain"></a><a href="https://www.okx.com/support/hc/en-us/articles/11319913977613-Use-the-OKX-Wallet-Web-Extension-to-easily-play-AptosPassport" target="_blank"><img src="' + Ct + '" alt="" class="xl:h-16 h-10 object-contain"></a><a href="https://www.mexc.com/exchange/科目三_USDT?_from=search" target="_blank"><img src="' + Et + '" alt="" class="xl:h-16 h-10 object-contain"></a></div>', 1);
 function Ot(e, n, t, r, l, u) {
     const o = a("TextBlock")
       , p = a("Button");
@@ -971,7 +971,7 @@ function Zt(e, n, t, r, l, u) {
     }), c(m, null, {
         default: y(()=>[s("div", Jt, [c(p, {
             title: "Release The Memes.",
-            description: "WSB is only a memecoin. Have fun with community. Make new memes. Enjoy the time we have left in this decaying society.",
+            description: "科目三 is only a memecoin. Have fun with community. Make new memes. Enjoy the time we have left in this decaying society.",
             primary: !1
         }), Qt])]),
         _: 1
@@ -997,8 +997,8 @@ function nn(e, n, t, r, l, u) {
         class: "-skew-y-6 relative -top-10"
     }), c(w, null, {
         default: y(()=>[c(m, {
-            description: `$WSB coin has no association with TED-ED or their creation of the viral baby meme in their educational videos. This token is simply a fun thank you for all of the memes that have gone viral as a result of their creativity.
-$WSB is a meme coin that does not have any intrinsic value or expectation of financial gains. There is no formal team or roadmap. You are here to have fun if you choose to be here.`,
+            description: `$科目三 coin has no association with TED-ED or their creation of the viral baby meme in their educational videos. This token is simply a fun thank you for all of the memes that have gone viral as a result of their creativity.
+$科目三 is a meme coin that does not have any intrinsic value or expectation of financial gains. There is no formal team or roadmap. You are here to have fun if you choose to be here.`,
             center: "",
             "full-description": "",
             primary: !1
@@ -1006,7 +1006,7 @@ $WSB is a meme coin that does not have any intrinsic value or expectation of fin
             button: y(()=>[c(p, {
                 "is-link": "",
                 link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
-                title: "Buy $WSB"
+                title: "Buy $科目三"
             })]),
             _: 1
         })]),
@@ -1028,7 +1028,7 @@ const on = h(tn, [["render", nn]])
 }
   , ln = s("p", {
     class: "text-white text-center xl:text-base text-sm"
-}, " Copyright \xA9 2023 WALL STREET BABY - All Rights Reserved. ", -1);
+}, " Copyright \xA9 2023 科目三 - All Rights Reserved. ", -1);
 function cn(e, n, t, r, l, u) {
     const o = a("Logo");
     return d(),
