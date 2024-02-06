@@ -129,19 +129,19 @@ const ge = h(me, [["render", xe]])
                 url: "/"
             }, {
                 name: "Chart",
-                url: "https://www.dextools.io/app/en/ether/pair-explorer/0x4360658e680026e4c636e8be0f7d0b9f976c46f0",
+                // url: "https://www.dextools.io/app/en/ether/pair-explorer/0x4360658e680026e4c636e8be0f7d0b9f976c46f0",
                 anchor: !0
             }, {
                 name: "Buy $科目三",
-                url: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
+                // url: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
                 anchor: !0
             }, {
                 name: "Twitter",
-                url: "https://twitter.com/科目三_BABY",
+                url: "https://twitter.com/KeMu3EthToken",
                 anchor: !0
             }, {
                 name: "Telegram",
-                url: "https://t.me/wallstreetbaby_portal",
+                url: "https://t.me/+dKAyEG7Ooy1hNjNl",
                 anchor: !0
             }],
             scrolled: !1
@@ -215,7 +215,7 @@ function je(e, n, t, r, l, u) {
     }, 1032, ["to"]))], 64))), 128))]), c(m, {
         class: "xl:flex hidden",
         "is-link": "",
-        link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
+        // link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
         title: "Buy $科目三"
     }), s("div", ke, [s("button", {
         type: "button",
@@ -252,7 +252,7 @@ function je(e, n, t, r, l, u) {
     }, 1032, ["to"]))]))), 128)), c(m, {
         "is-link": "",
         light: "",
-        link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
+        // link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
         title: "Buy $科目三",
         class: "mx-4 mb-4"
     })])])], 512), [[G, l.expandMenu]])], 2)
@@ -553,7 +553,7 @@ function Qe(e, n, t, r, l, u) {
     }, 8, ["direction"])
 }
 const A = h(Ne, [["render", Qe]])
-  , Ze = "/assets/hero.png";
+  , Ze = "/assets/kemu3.jpg";
 const et = {
     components: {
         TextBlock: T,
@@ -588,15 +588,15 @@ function at(e, n, t, r, l, u) {
     return d(),
     f("div", tt, [s("div", nt, [s("div", ot, [c(p, {
         title: "Release The Inner Degen.",
-        description: "科目三 is a memecoin by and for the Wall Street Bets community. The original Wall Street Bets logo was created for educational purposes by a third party and later used in the infamous Wall Street Bets reddit page. 科目三 is here to honor their creativity and everlasting memes."
+        description: "科目三 is a memecoin by and for the Chinese community. The original Chinese logo was created for educational purposes by a third party and later used in the infamous Chinese reddit page. 科目三 is here to honor their creativity and everlasting memes."
     }, {
         button: y(()=>[s("div", st, [c(o, {
             "is-link": "",
-            link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
+            // link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
             title: "Buy In Uniswap"
         }), c(o, {
             "is-link": "",
-            link: "https://www.dextools.io/app/en/ether/pair-explorer/0x4360658e680026e4c636e8be0f7d0b9f976c46f0",
+            // link: "https://www.dextools.io/app/en/ether/pair-explorer/0x4360658e680026e4c636e8be0f7d0b9f976c46f0",
             title: "Check In Dextools"
         })])]),
         _: 1
@@ -657,7 +657,7 @@ const W = h(it, [["render", dt]])
 }, [s("iframe", {
     width: "821",
     height: "462",
-    src: "https://www.youtube.com/embed/TEl4jeETVmg?start=196&autoplay=1&mute=1&loop=1",
+    src: "https://www.youtube.com/watch?v=1T5KrOhd2-s",
     title: "YouTube video player",
     frameborder: "0",
     allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
@@ -670,7 +670,7 @@ function pt(e, n, t, r, l, u) {
     B(o, {
         center: "",
         title: "The Origins",
-        description: "Truthfully, we were all born degens. We deserve a memecoin that represents who we are. The original Wall Street Bets logo was taken from a video of a baby spending money in comparison to the mole.",
+        description: "Truthfully, we were all born degens. We deserve a memecoin that represents who we are. The original Chinese logo was taken from a video of a baby spending money in comparison to the mole.",
         "full-description": ""
     }, {
         default: y(()=>[ft]),
@@ -678,7 +678,7 @@ function pt(e, n, t, r, l, u) {
     })
 }
 const mt = h(ut, [["render", pt]])
-  , _t = "/assets/reddit.png"
+  , _t = "/assets/kemu32.png"
   , ht = "/assets/where-bg.svg"
   , wt = {
     name: "Where",
@@ -781,128 +781,128 @@ var R = Object.getOwnPropertySymbols
     return t
 }
 ;
-const Ht = ["ar", "bn", "cs", "da", "de", "el", "en", "es", "fa", "fi", "fil", "fr", "he", "hi", "hu", "id", "it", "ja", "ko", "msa", "nl", "no", "pl", "pt", "ro", "ru", "sv", "th", "tr", "uk", "ur", "vi", "zh-cn", "zh-tw"]
-  , Ut = /^(https?:\/\/)?(www\.)?twitter\.com\/.*\/status(?:es)?\/(?<tweetId>[^\/\?]\d+)$/i
-  , Vt = H({
-    props: {
-        tweetId: {
-            type: String,
-            default: ""
-        },
-        tweetUrl: {
-            type: String,
-            default: ""
-        },
-        conversation: {
-            type: String,
-            default: "all",
-            validator: e=>["all", "none"].includes(e)
-        },
-        cards: {
-            type: String,
-            default: "visible",
-            validator: e=>["visible", "hidden"].includes(e)
-        },
-        width: {
-            type: [String, Number],
-            default: "auto",
-            validator: e=>typeof e == "string" ? e === "auto" : typeof e == "number" ? e >= 250 && e <= 550 : !1
-        },
-        align: {
-            type: [String, void 0],
-            default: void 0,
-            validator: e=>["left", "right", "center", void 0].includes(e)
-        },
-        theme: {
-            type: String,
-            default: "light",
-            validator: e=>["light", "dark"].includes(e)
-        },
-        lang: {
-            type: String,
-            default: "en",
-            validator: e=>Ht.includes(e)
-        },
-        dnt: {
-            type: Boolean,
-            default: !1
-        }
-    },
-    emits: {
-        "tweet-load-success": e=>!!e,
-        "tweet-load-error": ()=>!0
-    },
-    setup(e, {attrs: n, emit: t}) {
-        const r = g(!0)
-          , l = g(!1)
-          , u = g();
-        U(()=>{
-            o()
-        }
-        ),
-        O(e, ()=>{
-            o()
-        }
-        );
-        function o() {
-            if (!(window.twttr && window.twttr.ready)) {
-                m("https://platform.twitter.com/widgets.js", o);
-                return
-            }
-            window.twttr.ready().then(({widgets: w})=>{
-                r.value = !0,
-                l.value = !1,
-                u.value && (u.value.innerHTML = "");
-                const {tweetId: x, tweetOptions: i} = p();
-                w.createTweet(x, u.value, i).then(async _=>{
-                    await Z(),
-                    _ ? t("tweet-load-success", _) : (l.value = !0,
-                    t("tweet-load-error"))
-                }
-                ).finally(()=>{
-                    r.value = !1
-                }
-                )
-            }
-            )
-        }
-        function p() {
-            var w;
-            let x = e
-              , {tweetId: i, tweetUrl: _} = x
-              , b = It(x, ["tweetId", "tweetUrl"]);
-            if (i && _)
-                throw new Error("Cannot provide both tweet-id and tweet-url.");
-            if (i) {
-                if (!/^\d+$/.test(i))
-                    throw new Error("Invalid tweet-id, please provide a valid numerical tweet-id.")
-            } else if (_) {
-                const C = _.trim().match(Ut);
-                if (C)
-                    i = (w = C.groups) == null ? void 0 : w.tweetId;
-                else
-                    throw new Error("Invalid tweet-url.")
-            } else
-                throw new Error("Must provide either tweet-id or tweet-url.");
-            return {
-                tweetId: i,
-                tweetOptions: b
-            }
-        }
-        function m(w, x) {
-            const i = document.createElement("script");
-            i.setAttribute("src", w),
-            i.addEventListener("load", ()=>x(), !1),
-            document.body.appendChild(i)
-        }
-        return {
-            tweetContainerRef: u,
-            isLoading: r,
-            hasError: l,
-            attrs: n
-        }
-    }
-});
+// const Ht = ["ar", "bn", "cs", "da", "de", "el", "en", "es", "fa", "fi", "fil", "fr", "he", "hi", "hu", "id", "it", "ja", "ko", "msa", "nl", "no", "pl", "pt", "ro", "ru", "sv", "th", "tr", "uk", "ur", "vi", "zh-cn", "zh-tw"]
+//   , Ut = /^(https?:\/\/)?(www\.)?twitter\.com\/.*\/status(?:es)?\/(?<tweetId>[^\/\?]\d+)$/i
+//   , Vt = H({
+//     props: {
+//         tweetId: {
+//             type: String,
+//             default: ""
+//         },
+//         tweetUrl: {
+//             type: String,
+//             default: ""
+//         },
+//         conversation: {
+//             type: String,
+//             default: "all",
+//             validator: e=>["all", "none"].includes(e)
+//         },
+//         cards: {
+//             type: String,
+//             default: "visible",
+//             validator: e=>["visible", "hidden"].includes(e)
+//         },
+//         width: {
+//             type: [String, Number],
+//             default: "auto",
+//             validator: e=>typeof e == "string" ? e === "auto" : typeof e == "number" ? e >= 250 && e <= 550 : !1
+//         },
+//         align: {
+//             type: [String, void 0],
+//             default: void 0,
+//             validator: e=>["left", "right", "center", void 0].includes(e)
+//         },
+//         theme: {
+//             type: String,
+//             default: "light",
+//             validator: e=>["light", "dark"].includes(e)
+//         },
+//         lang: {
+//             type: String,
+//             default: "en",
+//             validator: e=>Ht.includes(e)
+//         },
+//         dnt: {
+//             type: Boolean,
+//             default: !1
+//         }
+//     },
+//     emits: {
+//         "tweet-load-success": e=>!!e,
+//         "tweet-load-error": ()=>!0
+//     },
+//     setup(e, {attrs: n, emit: t}) {
+//         const r = g(!0)
+//           , l = g(!1)
+//           , u = g();
+//         U(()=>{
+//             o()
+//         }
+//         ),
+//         O(e, ()=>{
+//             o()
+//         }
+//         );
+//         function o() {
+//             if (!(window.twttr && window.twttr.ready)) {
+//                 m("https://platform.twitter.com/widgets.js", o);
+//                 return
+//             }
+//             window.twttr.ready().then(({widgets: w})=>{
+//                 r.value = !0,
+//                 l.value = !1,
+//                 u.value && (u.value.innerHTML = "");
+//                 const {tweetId: x, tweetOptions: i} = p();
+//                 w.createTweet(x, u.value, i).then(async _=>{
+//                     await Z(),
+//                     _ ? t("tweet-load-success", _) : (l.value = !0,
+//                     t("tweet-load-error"))
+//                 }
+//                 ).finally(()=>{
+//                     r.value = !1
+//                 }
+//                 )
+//             }
+//             )
+//         }
+//         function p() {
+//             var w;
+//             let x = e
+//               , {tweetId: i, tweetUrl: _} = x
+//               , b = It(x, ["tweetId", "tweetUrl"]);
+//             if (i && _)
+//                 throw new Error("Cannot provide both tweet-id and tweet-url.");
+//             if (i) {
+//                 if (!/^\d+$/.test(i))
+//                     throw new Error("Invalid tweet-id, please provide a valid numerical tweet-id.")
+//             } else if (_) {
+//                 const C = _.trim().match(Ut);
+//                 if (C)
+//                     i = (w = C.groups) == null ? void 0 : w.tweetId;
+//                 else
+//                     throw new Error("Invalid tweet-url.")
+//             } else
+//                 throw new Error("Must provide either tweet-id or tweet-url.");
+//             return {
+//                 tweetId: i,
+//                 tweetOptions: b
+//             }
+//         }
+//         function m(w, x) {
+//             const i = document.createElement("script");
+//             i.setAttribute("src", w),
+//             i.addEventListener("load", ()=>x(), !1),
+//             document.body.appendChild(i)
+//         }
+//         return {
+//             tweetContainerRef: u,
+//             isLoading: r,
+//             hasError: l,
+//             attrs: n
+//         }
+//     }
+// });
 function qt(e, n, t, r, l, u) {
     return d(),
     f(k, null, [e.isLoading ? S(e.$slots, "loading", {
@@ -913,7 +913,7 @@ function qt(e, n, t, r, l, u) {
         ref: "tweetContainerRef"
     }, e.attrs), null, 16)], 64)
 }
-var Yt = Rt(Vt, [["render", qt]]);
+var Yt = Rt(vt, [["render", qt]]);
 const Nt = {
     name: "Pay",
     components: {
@@ -937,7 +937,7 @@ function zt(e, n, t, r, l, u) {
             theme: "dark"
         }), c(p, {
             title: "Pay it Forward.",
-            description: "The popular Youtube channel Ted-Ed will be happy to hear that we took them up on their offer. We have reserved 5% of the total supply for the educational non-profit to claim at their earliest convenience.",
+            description: "The popular Youtube channel 春晚 will be happy to hear that we took them up on their offer. We have reserved 5% of the total supply for the educational non-profit to claim at their earliest convenience.",
             primary: !1
         })])]),
         _: 1
@@ -997,7 +997,7 @@ function nn(e, n, t, r, l, u) {
         class: "-skew-y-6 relative -top-10"
     }), c(w, null, {
         default: y(()=>[c(m, {
-            description: `$科目三 coin has no association with TED-ED or their creation of the viral baby meme in their educational videos. This token is simply a fun thank you for all of the memes that have gone viral as a result of their creativity.
+            description: `$科目三 coin has no association with 春晚 or their creation of the viral baby meme in their educational videos. This token is simply a fun thank you for all of the memes that have gone viral as a result of their creativity.
 $科目三 is a meme coin that does not have any intrinsic value or expectation of financial gains. There is no formal team or roadmap. You are here to have fun if you choose to be here.`,
             center: "",
             "full-description": "",
@@ -1005,7 +1005,7 @@ $科目三 is a meme coin that does not have any intrinsic value or expectation 
         }, {
             button: y(()=>[c(p, {
                 "is-link": "",
-                link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
+                // link: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x15f20f9dfdf96ccf6ac96653b7c0abfe4a9c9f0f",
                 title: "Buy $科目三"
             })]),
             _: 1
@@ -1028,7 +1028,7 @@ const on = h(tn, [["render", nn]])
 }
   , ln = s("p", {
     class: "text-white text-center xl:text-base text-sm"
-}, " Copyright \xA9 2023 科目三 - All Rights Reserved. ", -1);
+}, " Copyright \xA9 2024 科目三 - All Rights Reserved. ", -1);
 function cn(e, n, t, r, l, u) {
     const o = a("Logo");
     return d(),
